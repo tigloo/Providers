@@ -1,5 +1,5 @@
 {
-    "name": "tigloo/socialiteproviders/microsoft-azure",
+    "name": "tigloo/microsoft-azure",
     "description": "Microsoft Azure OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
